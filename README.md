@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Gerasimos Bekos 
 
-🎓**B.Sc. Informatics & Telecommunications** @ NKUA | Graduating Senior  
+🎓**B.Sc. Computer Science** @ NKUA | Graduating Senior  
 💻 Passionate about **Software Engineering, AI, Data Science, Cybersecurity, and Web Development**  
 
 
