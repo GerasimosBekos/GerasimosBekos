@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Gerasimos Bekos 
 
-🎓**B.Sc. Computer Science** @ NKUA | Graduating Senior  
-💻 Passionate about **Software Engineering, AI, Data Science, Cybersecurity, and Web Development**  
+**B.Sc. Computer Science** @ NKUA | Graduating Senior  
+Passionate about **Software Engineering, AI, Data Science and Web Development**  
 
 
-## 🚀 About Me
-- 🔭 I'm currently pursuing my Bachelor's in Informatics and Telecommunications at National and Kapodistrian University of Athens
-- 💼 Actively looking for a job or internship where I can apply and expand my skills
-- 🌱 Eager to gain expertise across multiple domains of Computer Science, including AI, Data Science, Cybersecurity, and Web Development
-- 💡 Passionate about turning ideas into functional, innovative solutions and continuously learning new technologies
+##  About Me
+- Currently pursuing my Bachelor's in Informatics and Telecommunications at National and Kapodistrian University of Athens
+- Actively looking for a job or internship where I can apply and expand my skills
+- Passionate about turning ideas into functional, innovative solutions and continuously learning new technologies
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
